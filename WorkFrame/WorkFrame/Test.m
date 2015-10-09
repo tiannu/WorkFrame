@@ -10,4 +10,8 @@
 
 @implementation Test
 
+- (void)sbdbsx {
+    
+}
+
 @end

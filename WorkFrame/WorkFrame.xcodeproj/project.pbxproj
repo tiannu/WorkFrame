@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F78A6EE1BC7D8D700132BF8 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F78A6ED1BC7D8D700132BF8 /* Test.m */; };
 		9432F3551BB1B1AA001F274F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9432F3541BB1B1AA001F274F /* main.m */; };
 		9432F3581BB1B1AA001F274F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9432F3571BB1B1AA001F274F /* AppDelegate.m */; };
 		9432F3631BB1B1AB001F274F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9432F3611BB1B1AB001F274F /* LaunchScreen.xib */; };
@@ -56,6 +57,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6F78A6EC1BC7D8D700132BF8 /* Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
+		6F78A6ED1BC7D8D700132BF8 /* Test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 		9432F34F1BB1B1AA001F274F /* WorkFrame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorkFrame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9432F3531BB1B1AA001F274F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9432F3541BB1B1AA001F274F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -178,6 +181,8 @@
 				9432F4011BB1B573001F274F /* Resources */,
 				9432F4131BB1B76A001F274F /* Frameworks */,
 				9432F3521BB1B1AA001F274F /* Supporting Files */,
+				6F78A6EC1BC7D8D700132BF8 /* Test.h */,
+				6F78A6ED1BC7D8D700132BF8 /* Test.m */,
 			);
 			path = WorkFrame;
 			sourceTree = "<group>";
@@ -468,6 +473,7 @@
 				946658E91BB2E3E100A1CF00 /* AFURLResponseSerialization.m in Sources */,
 				9432F3581BB1B1AA001F274F /* AppDelegate.m in Sources */,
 				946658F01BB2E3E100A1CF00 /* UIProgressView+AFNetworking.m in Sources */,
+				6F78A6EE1BC7D8D700132BF8 /* Test.m in Sources */,
 				946658F61BB2E3E100A1CF00 /* FMDatabaseQueue.m in Sources */,
 				946658E41BB2E3E100A1CF00 /* AFHTTPSessionManager.m in Sources */,
 				946658EB1BB2E3E100A1CF00 /* AFNetworkActivityIndicatorManager.m in Sources */,
